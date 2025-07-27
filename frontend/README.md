@@ -1,12 +1,25 @@
-# React + Vite
+# UIginite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A blazing-fast UI component library, built for devs who just want to _copy, paste, and go_. This repo keeps track of all UI components crafted under **UIgnite**.
 
-Currently, two official plugins are available:
+Whether you're building something quick or going pixel-perfect, UIgnite's got your back with stylish, reusable, and customizable components.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## How to use
+ 
+ -  **Search** for the component you need
+-   **Copy** the code
+-   **Paste** it in your project
+-   **Customize** to match your vibe
 
-## Expanding the ESLint configuration
+## Why UIgnite?
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+-   Built with React + Tailwind  
+-    Fast to integrate
+-    Easy to customize
+-   Clean, modern design out of the box
+
+## Contribute
+
+Got a cool component idea? Found a bug? Want to improve something?
+**Pull requests are _super_ welcome.**  
+Let’s build a dope library together.
