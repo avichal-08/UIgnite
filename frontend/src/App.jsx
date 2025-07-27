@@ -6,10 +6,10 @@ import Bolt from './components/loaders/bolt'
 function App() {
 
   return(
-    <div>
-      {/* <BouncingLoader/> */}
-      {/* <HorizontalTranslation1/> */}
-      {/* <FullCircle/> */}
+    <div className='flex'>
+      <BouncingLoader/>
+      <HorizontalTranslation1/>
+      <FullCircle/>
       <Bolt/>
     </div>
   )

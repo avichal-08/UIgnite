@@ -2,7 +2,7 @@ import { motion } from "motion/react"
 export default function Bolt(){
     return(
         <div className=" w-screen h-screen relative">
-            <div className="flex gap-2 mt-[20%] ml-[47%] absolute">
+            <div className="mt-[20%] ml-[47%] absolute">
                 <motion.svg  
                 xmlns="http://www.w3.org/2000/svg"  
                 width="60"  
